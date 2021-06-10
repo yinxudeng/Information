@@ -1,7 +1,7 @@
 certifi==2019.6.16
 chardet==3.0.4
 configparser==3.7.4
-Django==1.11.22
+Django==2.2.24
 docutils==0.14
 idna==2.8
 meld3==1.0.2
